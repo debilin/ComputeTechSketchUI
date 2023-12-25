@@ -31,3 +31,15 @@
 *.log
 *.tlog
 
+# Project files
+*.sdf
+*.opensdf
+*.suo
+*.vcxproj.user
+ipch/
+.DS_Store
+*.vcxproj.filters
+*/Debug*
+*/debug*
+*/Release*
+*/release*
